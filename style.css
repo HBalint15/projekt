@@ -11,3 +11,8 @@ body{
 .tartalom{
     background-image: url(redbull-background.avif);
 }
+
+.fejlec{
+    background-color: blue;
+    color: red;
+}
