@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left ;
+
+}
+
+.menu{
+    text-decoration: none;
+    border-radius: 15%;
+}
+.tartalom{
+    background-image: url(redbull-background.avif);
+}
