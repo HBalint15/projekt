@@ -4,6 +4,15 @@ body{
 
 }
 
+.menu{
+    text-decoration: none;
+    border-radius: 15%;
+}
 .tartalom{
     background-image: url(redbull-background.avif);
+}
+
+.fejlec{
+    background-color: blue;
+    color: red;
 }
